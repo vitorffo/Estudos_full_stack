@@ -1,0 +1,7 @@
+.highlight {
+    background: grey;
+}
+
+input, label, button {
+    display: block;
+}
