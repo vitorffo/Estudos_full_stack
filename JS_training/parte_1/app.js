@@ -1,7 +1,9 @@
 
-var friends = ['Vitor', 'vitoria', 'silvia', 'boris', 'krum', 'joao vitor']
+
+function add(num1, num2) {
+    console.log('In function')
+    return num1 + num2;
+}
 
 
 
-
-console.log('fim do programa')
