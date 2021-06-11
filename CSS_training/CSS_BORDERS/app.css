@@ -1,0 +1,28 @@
+body{
+    font-family:'Lato', sans-serif;
+    margin: 0;
+}
+
+form{
+    padding: 1em;
+    margin: 0 auto;
+    width: 150px;
+    border: 1px solid white;
+    box-shadow: 24px 26px 55px -19px rgba(0,0,0,0.86);
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+input, label {
+    display: block;
+}
+
+hr{
+    width: 50%;
+}
+
+

@@ -1,0 +1,23 @@
+body{
+    font-family:'Lato', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+input, label {
+    display: block;
+}
+
+main {
+    margin-left: 3em;
+}
+
+a {
+    text-decoration: none;
+}

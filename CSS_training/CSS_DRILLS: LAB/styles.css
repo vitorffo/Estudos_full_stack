@@ -1,0 +1,119 @@
+body {
+    font-family:'Lato', sans-serif;
+    background: lightgrey;
+}
+
+h1 {
+    color: lightslategray;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+ul {
+    color: peru;
+}
+
+.original {
+    color: maroon;
+}
+
+.additional {
+    color: midnightblue;
+}
+
+.star {
+    color: rebeccapurple;
+}
+
+#wars {
+    color: red;
+}
+
+#show1 {
+    color: navy;
+}
+
+#show2 {
+    color: lightskyblue;
+}
+
+#show3 {
+    color: lightseagreen;
+}
+
+#show4 {
+    color: greenyellow;
+}
+
+#show5 {
+    color: yellow;
+}
+
+#box1 {
+    background: lightyellow;
+}
+
+#box2 {
+    background: lightsteelblue;
+    position: relative;
+   
+}
+
+#box3 {
+    background: yellowgreen;
+}
+
+#box4 {
+    background: lightpink;
+}
+
+.imageBox{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: tomato;
+    position: absolute;
+    left: 1em;
+    top: 2em;
+/*  display: inline-block; */
+}
+
+.readme-wrapper {
+    text-align: center;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: maroon;
+}
+
+span {
+    color: lightcoral;
+    font-weight: bold;
+}
+
+.boxes {
+    display: block;
+    position: relative;
+    margin: 3em 7em 2em 5em;
+    padding: 1rem 4rem 1rem 4rem;
+    border: solid lightsalmon;
+    width: 25em;
+    border-radius: 10px;
+}
+
+.list-container {
+    border: 2px solid black;
+}
