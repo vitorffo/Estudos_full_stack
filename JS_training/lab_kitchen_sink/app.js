@@ -4,14 +4,14 @@ const total_estados_br = 26;
 let soma = 5 + 4;
 
 function sayHello(){
-    console.log('Za warudo');
+    alert('Za warudo');
 }
 
 sayHello();
 
 function checkAge(name, age) {
     if (age < 21){
-        console.log(` ${name}, tu não vai beber não`)
+        alert(` ${name}, tu não vai beber não`);
     }
 }
 
