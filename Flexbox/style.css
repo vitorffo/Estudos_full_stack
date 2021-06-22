@@ -1,0 +1,28 @@
+.boxes {
+    display: flex;
+    height: 5em;
+    border: 1px solid red;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes div{
+    border: 1px solid black;
+    padding: 1em;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+}
+
+nav div {
+    padding: 1em;
+}
+
+body {
+    background-color: lightgray;
+    margin: 0;
+}
